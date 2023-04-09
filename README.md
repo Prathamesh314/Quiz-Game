@@ -19,17 +19,10 @@ First goto data.py and in paramters change amount as much you want
 
 ## **Here's how it looks**
 
-<table>
-    <tr>
-        <td> <img src="images\opening_page.png" alt="Starting page" width="200px" height="300px"> </td>
-
-        <td> <img src="images\right_ans.png" alt="Correct Ans" width="200px" height="300px"> </td>
-    </tr>
-    <tr>
-        <td> <img src = "images\wrong_ans.png" alt="Wrong Ans" width="200px" height="300px"> </td>
-        <td> <img src="images\end of the page.png" alt="Last Page" width="200px" height="300px"> </td>
-    </tr>
-</table>
+| Starting Page | When You Give Correct Ans |
+- - - - - - - - - - - - - - - - - - - - - - - 
+| <img src = "images\opening_page.png" alt ="Starting Page" width="200px" height= "300px"> | <img src = "images\right_ans.png" alt = "Correct Ans"> |
+- - - - - - - - - - - - - - - - - - - - - - - -
 
 
 
