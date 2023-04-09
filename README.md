@@ -8,7 +8,7 @@
 ```
 First goto data.py and in paramters change amount as much you want
 ```
->> To add more parameters goto [Trivia.com](https://opentdb.com/api_config.php) and do the changes as you want
+> To add more parameters goto [Trivia.com](https://opentdb.com/api_config.php) and do the changes as you want
 
 - So you can also customize the game as your wish by following above steps
 
