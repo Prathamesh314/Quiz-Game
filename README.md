@@ -20,4 +20,4 @@
 ## **Here's how it looks**
 
 ### Starting Page
-<img src="images\opening_page.png" alt="Starting page">
+<img src="images\opening_page.png" alt="Starting page" width="300px" height="300px">
