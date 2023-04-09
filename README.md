@@ -5,10 +5,10 @@
 - This is a Quiz Game where you can answer the Question in Boolean Manner [True / False]
 - This Gui uses **request** module to fetch the questions from internet, the advantage of this dyanamic questions is that you get new questions everytime
 - You can also change settings of this questions like if you donot want Boolean questions or want to change number of questions you can do that following given steps :-
-> First goto data.py and in paramters change amount as much you want
 ```
-To add more parameters goto [Trivia.com](https://opentdb.com/api_config.php) and do the changes as you want
+First goto data.py and in paramters change amount as much you want
 ```
+>> To add more parameters goto [Trivia.com](https://opentdb.com/api_config.php) and do the changes as you want
 
 - So you can also customize the game as your wish by following above steps
 
@@ -20,16 +20,15 @@ To add more parameters goto [Trivia.com](https://opentdb.com/api_config.php) and
 ## **Here's how it looks**
 
 ### Starting Page
-**Starting Page**
 <img src="images\opening_page.png" alt="Starting page" width="200px" height="300px">
 
-**When You give correct answer**
+### When You give correct answer
 <img src="images\right_ans.png" alt="Correct Ans" width="200px" height="300px">
 
-**When you give wrong answer**
+### When you give wrong answer
 <img src = "images\wrong_ans.png" alt="Wrong Ans" width="200px" height="300px">
 
-**Last Page**
+### Last Page
 <img src="images\end of the page.png" alt="Last Page" width="200px" height="300px">
 
 
