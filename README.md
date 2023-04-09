@@ -19,16 +19,28 @@ First goto data.py and in paramters change amount as much you want
 
 ## **Here's how it looks**
 
-### Starting Page
-<img src="images\opening_page.png" alt="Starting page" width="200px" height="300px">
+<table>
+    <tr>
+        <td> <img src="images\opening_page.png" alt="Starting page" width="200px" height="300px"> </td>
 
-### When You give correct answer
-<img src="images\right_ans.png" alt="Correct Ans" width="200px" height="300px">
+        <td> <img src="images\right_ans.png" alt="Correct Ans" width="200px" height="300px"> </td>
+    </tr>
+    <tr>
+        <td> <img src = "images\wrong_ans.png" alt="Wrong Ans" width="200px" height="300px"> </td>
+        <td> <img src="images\end of the page.png" alt="Last Page" width="200px" height="300px"> </td>
+    </tr>
+</table>
 
-### When you give wrong answer
-<img src = "images\wrong_ans.png" alt="Wrong Ans" width="200px" height="300px">
 
-### Last Page
-<img src="images\end of the page.png" alt="Last Page" width="200px" height="300px">
+
+
+
+
+
+
+
+
+
+
 
 
